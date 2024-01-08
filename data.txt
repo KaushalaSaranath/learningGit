@@ -1,0 +1,10 @@
+Customer Name: null, Chosen Cashier: 1
+Customer Name: null, Chosen Cashier: 1
+Customer Name: sara, Chosen Cashier: 2
+Customer Name: null, Chosen Cashier: 2
+Customer Name: null, Chosen Cashier: 2
+Customer Name: tharani, Chosen Cashier: 3
+Customer Name: null, Chosen Cashier: 3
+Customer Name: null, Chosen Cashier: 3
+Customer Name: null, Chosen Cashier: 3
+Customer Name: null, Chosen Cashier: 3
